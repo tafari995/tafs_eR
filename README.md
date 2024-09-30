@@ -1,6 +1,6 @@
 # tafs_eR
 
-using python 3.10.12 in a virtual machine. here is a full list of my imports for my python solution to the Project Euler number 95:
+using python 3.10.12 in a virtual environment on a linux os. Here is a full list of my imports for my python solution to the Project Euler number 95:
 
 from distutils.core import setup
 from Cython.Build import cythonize
