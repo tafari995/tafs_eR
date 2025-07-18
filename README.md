@@ -1,16 +1,6 @@
 # tafs_eR
 
-using python 3.10.12 in a virtual environment on a linux os. Here is a full list of my imports for my python solution to the Project Euler number 95:
-
-from distutils.core import setup
-from Cython.Build import cythonize
-import numpy as np
-import cython
-from math import sqrt
-from copy import deepcopy
-from cython_prj_amicPairs import lamic_underN
-import time 
-import multiprocessing
+Using python 3.10.12 in a virtual environment on a linux os. Here is my python solution to the Project Euler number 95! Please see requirements.txt for dependencies.
 
 the code is Not fast at 10**6 (actually Quite Slow in comparison to C++ code I've found on the internet) but it does work on my laptop with 12GB ram and i5 9th gen processor, with 8 cores :)
 

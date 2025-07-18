@@ -1,0 +1,9 @@
+cython
+Cython.Build
+distutils.core
+time 
+multiprocessing
+math
+copy
+numpy
+
