@@ -1,6 +1,5 @@
 cython
-Cython.Build
-distutils.core
+distutils.core 
 time 
 multiprocessing
 math
